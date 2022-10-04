@@ -1,1 +1,1 @@
-# typing-game
+typing game done as a project during front end foxes class
